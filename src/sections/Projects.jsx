@@ -16,7 +16,7 @@ const projects = [
     {
         name: "Nuzlah E-comerce",
         description: "All islamic related shopping website, from thobes, books and more",
-        url: "https://github.com/Karim-codes/Nuzlaht",
+        url: "https://github.com/Karim-codes/Nuzlah",
         img: "/proj-logos/nuzlah-logo.png"
     },
     {
